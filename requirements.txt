@@ -1,0 +1,11 @@
+cpi==1.1.8
+DateTime==5.5
+json5==0.9.14
+jsonpointer==2.4
+jsonschema==4.19.0
+jsonschema-specifications==2023.7.1
+pyinstaller==6.9.0
+pyinstaller-hooks-contrib==2024.7
+python-dotenv==1.0.1
+tmdbv3api==1.9.0
+urllib3==2.2.2
